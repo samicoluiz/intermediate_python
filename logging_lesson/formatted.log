@@ -1,0 +1,17 @@
+2023-01-23 10:42:06,345 Hello! Welcome to the ATM Depot!
+2023-01-23 10:42:12,553 Amount Deposited: $50.0
+2023-01-23 10:42:12,553 Transaction Info:
+2023-01-23 10:42:12,553 Status: Successful
+2023-01-23 10:42:12,554 Transaction #275947
+2023-01-23 10:42:13,743 Error! Insufficient balance to complete withdraw.
+2023-01-23 10:42:13,744 Available Balance = $150.0
+2023-01-23 10:42:48,572 Hello! Welcome to the ATM Depot!
+2023-01-23 10:42:53,017 Amount Deposited: $50.0
+2023-01-23 10:42:53,017 Transaction Info:
+2023-01-23 10:42:53,018 Status: Successful
+2023-01-23 10:42:53,018 Transaction #519603
+2023-01-23 10:42:54,141 You withdrew: $10.0
+2023-01-23 10:42:54,142 Transaction Info:
+2023-01-23 10:42:54,142 Status: Successful
+2023-01-23 10:42:54,142 Transaction #20810
+2023-01-23 10:42:54,143 Available Balance = $140.0
